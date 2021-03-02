@@ -106,7 +106,7 @@ figure figcaption {
   overflow-y: scroll;
   z-index: 1001;
   /* background: #f2f3f7; */
-  background-color: #C7DBE6;
+  background-color: #c2d3dc;
 
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -598,7 +598,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 .hire { 
   /* change to 1 when remove boxes */
   padding: 4em;
-  background: #DADFF7;
+  background: #9DBEBB;
 }
 
 .hire h2 {
