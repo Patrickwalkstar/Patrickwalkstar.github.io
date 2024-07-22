@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Patrickwalkstar/Patrickwalkstar.github.io#readme",
   "devDependencies": {
-    "http-server": "^0.12.1",
-    "prettier": "^2.0.2"
+    "http-server": "^0.12.3",
+    "prettier": "^2.8.8"
   }
 }
